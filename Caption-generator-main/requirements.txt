@@ -2,6 +2,6 @@ flask==2.3.3
 flask-cors==3.0.10
 Pillow==10.0.0
 transformers==4.31.0
-torch==2.0.0
+torch==1.13.0
 gtts==2.3.2
 gunicorn==21.2.0
